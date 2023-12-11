@@ -11,7 +11,7 @@
 
 - ⚡ Curious fact **I'm a Political Science graduate from the University of Salamanca. Particularly interested in fraud prediction models**
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">  Connect with me!</h3>
 <p align="left">
 </p>
 
