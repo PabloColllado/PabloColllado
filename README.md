@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, R, data bases, Statistics, machine learning, data science, and big data.**
 
-- 👨‍💻 All of my projects are available at my repository
+- 👨‍💻 All of my projects and learning evolution are available at my repository
 
 - 💬 Ask me about **whatever you want.**
 
